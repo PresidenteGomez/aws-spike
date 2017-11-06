@@ -1,14 +1,15 @@
 # Name of Project
 
-One Paragraph of project description goes here. Link to the live version of the app if it's hosted on Heroku.
+AWS Spike to get images saved into 
 
 ## Built With
 
-List technologies and frameworks here
+AWS
 
 ## Getting Started
+- [x] create a aws account 
+- [x] 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
