@@ -1,14 +1,21 @@
 # Name of Project
 
-AWS Spike to get images saved into 
+AWS-Spike to get images saved into Grow North's Group Project
 
 ## Built With
 
-AWS
+- AWS
+- NodeJS
+- Passport
+- 
 
 ## Getting Started
-- [x] create a aws account 
-- [x] 
+- [x] create an AWS account 
+- []  
+- []  
+- []  
+- []  
+- []  
 
 
 ### Prerequisites
