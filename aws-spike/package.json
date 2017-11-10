@@ -12,9 +12,11 @@
   "dependencies": {
     "angular": "^1.6.4",
     "angular-route": "^1.6.4",
+    "aws-sdk": "^2.146.0",
     "bcrypt": "^1.0.2",
     "body-parser": "^1.13.3",
     "bootstrap": "^3.3.5",
+    "ejs": "^2.5.7",
     "express": "^4.13.1",
     "express-session": "^1.13.0",
     "jquery": "^2.1.4",
