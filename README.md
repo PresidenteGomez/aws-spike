@@ -7,11 +7,12 @@ AWS-Spike to get images saved into Grow North's Group Project
 - AWS
 - NodeJS
 - Passport
-- 
+- Heroku Deployment Environment
 
 ## Getting Started
-- [x] create an AWS account 
-- []  
+- [x] Create an AWS account 
+- [x] Create IAM user. 
+- [x] Generate access key ID and secret access key
 - []  
 - []  
 - []  
